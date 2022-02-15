@@ -1,0 +1,4 @@
+Mini Update
+
+-Added Search Bar
+-Added 1.17.41 Support
